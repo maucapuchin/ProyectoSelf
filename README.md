@@ -6,6 +6,6 @@
 # Ruta: http://localhost:16010/reporte/usuarios"
 # Metodo: GET
 # 
-# respuesta de lMetodo: GETa api :
+# respuesta del Metodo: GET a api :
 
 ********************************************
